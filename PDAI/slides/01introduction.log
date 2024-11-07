@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.2)  6 NOV 2023 08:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.2)  7 NOV 2024 17:30
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
+ Source specials enabled.
  %&-line parsing enabled.
 **01introduction.tex
 (./01introduction.tex
@@ -1298,7 +1299,7 @@ Package pdftex.def Info: figures/tiobe02_2021.png  used on input line 565.
 (pdftex.def)             Requested size: 326.72552pt x 97.31502pt.
 
 Overfull \hbox (6.33028pt too wide) in paragraph at lines 565--565
-[][]  
+[][][]  
  []
 
 <figures/tiobe05_2021.png, id=506, 1119.18124pt x 263.98625pt>
