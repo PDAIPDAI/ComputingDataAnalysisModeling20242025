@@ -39,7 +39,7 @@ dataset <- read.csv("path_to/file.csv"
 # 2.Correltion matrix between quant. variables
 # 3.Pairplot with binary feature
 
-# Step 5: Logit and Probit regression on "mode"
+# Step 5: Logit and Probit regression on "PITCH"
 # --------------------------------
 # 1.Standardize if needed
 # 2.Define the correct glm method
